@@ -1,0 +1,3 @@
+int myFirstVariable = 17
+int mySecondVariable = 45
+int myThirdVariable = 3

@@ -1,0 +1,6 @@
+[Syntax Error] Line 4:5 - missing ';' at 'main'
+[Syntax Error] Line 4:9 - missing ';' at '('
+[Syntax Error] Line 4:10 - mismatched input ')' expecting {'(', ID, NUMBER, STRING}
+[Syntax Error] Line 4:12 - mismatched input '{' expecting ';'
+[Syntax Error] Line 6:0 - extraneous input '}' expecting {<EOF>, 'int', 'float', 'double', 'string', '(', 'if', 'for', 'while', 'return', ID, NUMBER, STRING}
+[Syntax Error] Line 10:24 - missing ';' at '('

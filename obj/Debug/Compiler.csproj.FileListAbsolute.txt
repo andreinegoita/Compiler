@@ -1,0 +1,50 @@
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\obj\Debug\Compiler.csproj.Up2Date
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Facultate\An 2\Semestrul 1\LFC\Compiler\Compiler\obj\Debug\Compiler.pdb
+D:\b\Compiler\bin\Debug\Compiler.exe.config
+D:\b\Compiler\bin\Debug\Compiler.exe
+D:\b\Compiler\bin\Debug\Compiler.pdb
+D:\b\Compiler\bin\Debug\Antlr4.Runtime.Standard.dll
+D:\b\Compiler\bin\Debug\Antlr4.Runtime.Standard.xml
+D:\b\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+D:\b\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+D:\b\Compiler\obj\Debug\Compiler.csproj.Up2Date
+D:\b\Compiler\obj\Debug\Compiler.exe
+D:\b\Compiler\obj\Debug\Compiler.pdb
+C:\Facultate\Compiler\bin\Debug\Compiler.exe.config
+C:\Facultate\Compiler\bin\Debug\Compiler.exe
+C:\Facultate\Compiler\bin\Debug\Compiler.pdb
+C:\Facultate\Compiler\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Facultate\Compiler\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Facultate\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Facultate\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Facultate\Compiler\obj\Debug\Compiler.csproj.Up2Date
+C:\Facultate\Compiler\obj\Debug\Compiler.exe
+C:\Facultate\Compiler\obj\Debug\Compiler.pdb
+D:\Compiler\Compiler\bin\Debug\Compiler.exe.config
+D:\Compiler\Compiler\bin\Debug\Compiler.exe
+D:\Compiler\Compiler\bin\Debug\Compiler.pdb
+D:\Compiler\Compiler\bin\Debug\Antlr4.Runtime.Standard.dll
+D:\Compiler\Compiler\bin\Debug\Antlr4.Runtime.Standard.xml
+D:\Compiler\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+D:\Compiler\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+D:\Compiler\Compiler\obj\Debug\Compiler.csproj.Up2Date
+D:\Compiler\Compiler\obj\Debug\Compiler.exe
+D:\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\nasta\Downloads\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\nasta\Downloads\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\nasta\Downloads\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\nasta\Downloads\Compiler\Compiler\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\nasta\Downloads\Compiler\Compiler\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\nasta\Downloads\Compiler\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\nasta\Downloads\Compiler\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\nasta\Downloads\Compiler\Compiler\obj\Debug\Compiler.csproj.Up2Date
+C:\Users\nasta\Downloads\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\nasta\Downloads\Compiler\Compiler\obj\Debug\Compiler.pdb

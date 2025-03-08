@@ -1,0 +1,46 @@
+Function: addIntegers
+Parameters: intfirst,intsecondint first, int second
+
+Function: addIntegers
+Type: iterative
+Return Type: int
+Parameters: intfirst,intsecondint first, int second
+Local Variables:
+
+Control Structures:
+
+
+Function: divideIntegers
+Parameters: intfirst,intsecondint first, int second
+
+Function: divideIntegers
+Type: iterative
+Return Type: float
+Parameters: intfirst,intsecondint first, int second
+Local Variables:
+
+Control Structures:
+If statement: if(second==0){return0;}
+
+
+Function: main
+Parameters: 
+
+Function: main
+Type: main
+Return Type: int
+Parameters: 
+Local Variables:
+string myString = ""
+float myFloat = divideIntegers(myThirdVariable,myFirstVariable)
+
+Control Structures:
+If statement: if(second==0){return0;}
+If statement: if(second==0){return0;}
+For statement: for(inti=0;i<myThirdVariable;++i){myFirstVariable+=i;}
+If statement: if(second==0){return0;}
+If statement: if(second==0){return0;}
+For statement: for(inti=0;i<myThirdVariable;++i){myFirstVariable+=i;}
+If statement: if(myFirstVariable>=mySecondVariable&&globalVariable!=16.54){myString="Both conditions are true";}else{myString="At least one of the conditions is false";inttemp=myFirstVariable+5;}
+
+

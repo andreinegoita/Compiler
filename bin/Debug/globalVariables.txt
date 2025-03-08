@@ -1,0 +1,1 @@
+double globalVariable = 15.67

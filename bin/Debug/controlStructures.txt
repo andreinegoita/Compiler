@@ -1,0 +1,6 @@
+If statement: if(second==0){return0;}
+If statement: if(second==0){return0;}
+For statement: for(inti=0;i<myThirdVariable;++i){myFirstVariable+=i;}
+If statement: if(myFirstVariable>=mySecondVariable&&globalVariable!=16.54){myString="Both conditions are true";}else{myString="At least one of the conditions is false";inttemp=myFirstVariable+5;}
+For statement: for(inti=0;i<myThirdVariable;++i){myFirstVariable+=i;}
+If statement: if(myFirstVariable>=mySecondVariable&&globalVariable!=16.54){myString="Both conditions are true";}else{myString="At least one of the conditions is false";inttemp=myFirstVariable+5;}
